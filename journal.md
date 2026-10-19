@@ -1,1 +1,1 @@
-
+In my vehiclereport file, my abstract void logStatus is red, and them both my truckReport and BikeReport class is underlined red too. I have tried to ask chatgpt and it told me that there was nothing wrong with it, but the program dosen't run correctly.
